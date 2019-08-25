@@ -1,0 +1,7 @@
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\bin\Debug\Library.Extensions.Tests.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\bin\Debug\Library.Extensions.Tests.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\bin\Debug\Library.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\bin\Debug\Library.Extensions.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\obj\Debug\Library.Extensions.Tests.csprojResolveAssemblyReference.cache
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\obj\Debug\Library.Extensions.Tests.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions.Tests\obj\Debug\Library.Extensions.Tests.pdb

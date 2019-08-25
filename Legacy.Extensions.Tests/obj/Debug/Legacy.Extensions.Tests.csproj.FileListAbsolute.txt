@@ -1,0 +1,8 @@
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\bin\Debug\Legacy.Extensions.Tests.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\bin\Debug\Legacy.Extensions.Tests.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\bin\Debug\Legacy.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\bin\Debug\Legacy.Extensions.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\obj\Debug\Legacy.Extensions.Tests.csprojResolveAssemblyReference.cache
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\obj\Debug\Legacy.Extensions.Tests.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions.Tests\obj\Debug\Legacy.Extensions.Tests.pdb

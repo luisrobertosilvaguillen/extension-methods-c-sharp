@@ -1,0 +1,5 @@
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions\bin\Debug\Library.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions\bin\Debug\Library.Extensions.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions\obj\Debug\Library.Extensions.csprojResolveAssemblyReference.cache
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions\obj\Debug\Library.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Library.Extensions\obj\Debug\Library.Extensions.pdb

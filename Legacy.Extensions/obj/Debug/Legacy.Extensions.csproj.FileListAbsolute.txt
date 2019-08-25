@@ -1,0 +1,4 @@
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions\bin\Debug\Legacy.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions\bin\Debug\Legacy.Extensions.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions\obj\Debug\Legacy.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Legacy.Extensions\obj\Debug\Legacy.Extensions.pdb

@@ -1,0 +1,9 @@
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\bin\Debug\Custom.Object.Extensions.Tests.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\bin\Debug\Custom.Object.Extensions.Tests.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\bin\Debug\Custom.Object.Extensions.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\bin\Debug\Custom.Object.Extensions.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\obj\Debug\Custom.Object.Extensions.Tests.csprojResolveAssemblyReference.cache
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\obj\Debug\Custom.Object.Extensions.Tests.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\obj\Debug\Custom.Object.Extensions.Tests.pdb
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\DESARROLLO\REPOS_GIHUB\Extension.Methods\Custom.Object.Extensions.Tests\bin\Debug\Newtonsoft.Json.xml
